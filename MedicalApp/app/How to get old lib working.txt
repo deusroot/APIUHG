@@ -1,0 +1,8 @@
+how to get old lib working?
+Rename build.gradle -> build.gradlebk
+Rename build.gradle_oldlib -> build .gradle
+
+Rename /libs/lib-secommunication-1.1.0alpha.jarbk -> /libs/lib-secommunication-1.1.0alpha.jar
+Rename /libs/lib-secommunication-1.6.0.jar -> /libs/lib-secommunication-1.6.0.jarbk
+
+refresh android studio and get the old library working

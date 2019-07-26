@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">United HealthCard Pilot</string>
+    <string name="title_activity_patient_presciprion">PatientPresciprionActivity</string>
+</resources>
